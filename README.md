@@ -8,7 +8,11 @@ This project allows an organised review of sales transactions by integrating mai
 - #Activate
   venv\Scripts\activate
 
-- 
+- #Install Dependencies
+  pip install -r requirements.txt
+
+- ##Launch Jupyter
+  jupyter notebook
 
 ## Data Source Attribution
 - Superstore Sales Dataset on Kaggle: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
